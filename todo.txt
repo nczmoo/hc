@@ -1,0 +1,14 @@
+XXX -remove employee based production
+XXX-implement item based production
+XXX-simplify labor dramatically; just list labor and thats it no production
+XXX remove iron smelter as the default job
+XXX round stock quantity display
+XXX show rate of production - more complex than I assumed
+XXX be able to fire workers
+XXX label work checkboxes to be able to distinguish which is which
+XXX be abel to turn on or off work by workers
+
+DESIGN
+there's no way to know what does what
+players should be playing for employees regardless if they're producing anything
+incomplete - building or map done
